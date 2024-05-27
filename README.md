@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamsimahi
+- 👋 Hi, I’m @vamsi Gunupuru
 - 👀 I’m interested in Developing Machine Learning Models
 - 🌱 I’m Experienced in Machine Learning And Data science
 - 💞️ I’m Seeking an Oppurtunity to Use all my skills to the Company Success
